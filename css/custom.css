@@ -124,7 +124,7 @@ a:active {
 				 list-style: none;
 			}
 			.question li::before {
-					content: "\2600\FE0E";
+					content: "\2B50\FE0F";
 					color: #f05023;
 					display: inline-block;
 					width: 1em;
